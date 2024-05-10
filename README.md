@@ -6,6 +6,8 @@ A state switcher library for Love2D based on files (one file=one state).
 ****I AM NOT THE CREATOR OF THIS LIBRARY. I AM SIMPLY UPLOADING IT HERE FOR EASIER ACCESS.****
 ****THIS LIBRARY IS LICENSED UNDER THE CC-BY 4.0/Creative Commons Attribution International 4.0****
 
+Created by Daniel Duris, 2014
+
 [Link to the license here](https://creativecommons.org/licenses/by/4.0/)
 
 [Original Download Link](https://ambience.sk/love2d-a-state-switcher-class-lua/)
@@ -31,6 +33,3 @@ state.switch("credits;2;hello") -- passing 2 as the first value, "hello" as the 
 - reuse the functions from the previous states (to keep same behaviour) or redeclare the functions (to change behaviour)
 
 - automate debugging - create a sequence of state switching with variables passed
-
----
-_Please note: I am unaware of who the actual creator of this library is, so if you made this library or know who did, please let me know so I can properly credit them. Thanks!_
